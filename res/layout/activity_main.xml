@@ -67,7 +67,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/cmpDireccion"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:text="Agregar Contacto" />
+        android:text="Agregar Contacto" 
+        android:onClick="onClick"/>
 
 </RelativeLayout>
